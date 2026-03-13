@@ -1,0 +1,2 @@
+User_Query -> Display User Query -> Save Query to Chat_History -> Send the Chat_History to LLM -> Get Response from LLM 
+-> Save response in chat History -> Display LLM Response
